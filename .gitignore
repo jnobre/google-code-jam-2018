@@ -1,0 +1,11 @@
+*
+!/**/
+!*.*
+!Makefile
+
+.DS_Store
+.idea
+*.in
+*.out
+*.exe
+distrib-*/*.h
