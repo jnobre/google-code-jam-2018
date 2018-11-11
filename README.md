@@ -20,9 +20,12 @@ The following is the list of the problems solved. Each problem identifier is spe
 ### Round 1B
 
 * ✓ [A. Rounding Error][round1b1] (`rounding-error`)
-* ✗ [B. Mysterious Road Signs][round1b2] (`mysterious-road-signs`)
-* ✗ [C. Transmutation][round1b3] (`transmutation`)
+* ✓ [B. Mysterious Road Signs][round1b2] (`mysterious-road-signs`)
+* ✓ [C. Transmutation][round1b3] (`transmutation`)
 
+### Round 1C
+
+* ✗ [A Whole New Word][round1c1] (`transmutation`)
 
 [1]: https://code.google.com/codejam
 [2]: https://code.google.com/codejam/resources/quickstart-guide#dcj
