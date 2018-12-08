@@ -2,10 +2,6 @@
 
 This repository contains my solutions to the problems from [Google Code Jam 2018][1] and Distributed Google Code Jam 2018. These solutions are provided "as is" - I give no guarantees that they will work as expected.
 
-## Install
-
-(TODO - working)
-
 ## Problems Solved
 
 The following is the list of the problems solved. Each problem identifier is specified between round brackets. Problems marked with ✓ are done, while problems with ✗ are not complete or aren't efficient enough for the problem's limits.
@@ -25,7 +21,17 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 ### Round 1C
 
-* ✗ [A Whole New Word][round1c1] (`transmutation`)
+* ✓ [A. Whole New Word][round1c1] (`a-whole-new-word`)
+* ✓ [B. Lollipop Shop][round1c2] (`lollipop-shop`)
+* ✓ [C. Ant Stack][round1c3] (`ant-stack`)
+
+### Round 2
+
+* ✗ [A. Falling Balls][round21] (`falling-balls`)
+* ✗ [B. Graceful Chainsaw Jugglers][round22] (`graceful-chainsaw-jugglers`)
+* ✗ [C. Costume Change][round23] (`costume-change`)
+* ✗ [D. Gridception][round24] (`gridception`)
+
 
 [1]: https://code.google.com/codejam
 [2]: https://code.google.com/codejam/resources/quickstart-guide#dcj
